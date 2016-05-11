@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZJTest_1"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "a test for my project."
 
   # This description is used to generate tags and improve search results.
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/qiannianye/ZJTest_1.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/qiannianye/ZJTest_1.git", :tag => "1.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
